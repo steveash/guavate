@@ -1,5 +1,8 @@
 Guavate
-====
+========
+
+[![Build Status](https://travis-ci.org/steveash/guavate.svg?branch=master)](https://travis-ci.org/steveash/guavate)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.steveash.guavate/guavate/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.steveash.guavate/guavate)
 
 This is a single jar dependency for Guavate written by Stephen Colebourne and included as part of 
 [Strata](https://github.com/OpenGamma/Strata) under the Apache 2 License.  Guavate code is Copyright (C) 2014 - 

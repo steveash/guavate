@@ -7,7 +7,7 @@
     <groupId>com.github.steveash.guavate</groupId>
     <artifactId>guavate</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>guavate</name>
     <description>Guavate is a tiny library to help bridge the gap between gauva and java8 while the Guava team figures
         out
