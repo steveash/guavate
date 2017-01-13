@@ -4,6 +4,8 @@ Guavate
 [![Build Status](https://travis-ci.org/steveash/guavate.svg?branch=master)](https://travis-ci.org/steveash/guavate)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.steveash.guavate/guavate/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.steveash.guavate/guavate)
 
+**As of 2017-01-12 [Guava 21](https://github.com/google/guava/wiki/Release21) was released which brings Java 8 support to the library. That removes the need for Guavate.  Please upgrade to Guava 21**
+
 This is a single jar dependency for Guavate written by Stephen Colebourne and included as part of 
 [Strata](https://github.com/OpenGamma/Strata) under the Apache 2 License.  Guavate code is Copyright (C) 2014 - 
 present by OpenGamma Inc. and the OpenGamma group of companies.
